@@ -1,0 +1,7 @@
+*.pyc
+data_temp/*
+save_models/*
+temp/*
+.DS_Store
+.idea/*
+
